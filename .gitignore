@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+
+node_modules
+
+logs
+*.log
+.env
+.cache
+
+dist
+releases
+public/build
+
+personal_notes
